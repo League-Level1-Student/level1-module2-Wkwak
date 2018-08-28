@@ -5,8 +5,11 @@ public class Minion {
 	private String color;
 	private String master;
 
-	public Minion() {
-
+	public Minion(String Name, int Eyes, String Color, String Master) {
+		name = Name;
+		eyes = Eyes;
+		color = Color;
+		master = Master;
 	}
 
 	public String getName() {
@@ -27,5 +30,14 @@ public class Minion {
 
 	public String getColor() {
 		return color;
+	}
+	public void setColor(String color) {
+		this.color = color;
+	}
+	public String getMaster() {
+		return master;
+	}
+	public void setMaster(String master) {
+		this.master = master;
 	}
 }
