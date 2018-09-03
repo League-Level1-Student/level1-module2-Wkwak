@@ -1,4 +1,5 @@
 /Cup.class
+/JamesBond.class
 /Kettle$Water.class
 /Kettle.class
 /Microwave.class
@@ -11,10 +12,8 @@
 /Recipes.html
 /TeaBag.class
 /TeaMaker.class
-/extra/
 /TeaParty.class
 /TeaPartyTest.class
 /Vault.class
-/VaultRunner.class
 /VaultTest.class
-/JamesBond.class
+/extra/
